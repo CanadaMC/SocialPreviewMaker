@@ -1,5 +1,4 @@
 # SocialPreviewMaker
-
 Simple app to create GitHub social preview images.
 
 Generated images are meant to be used as social preview images which means they perfectly fit inside the template.
